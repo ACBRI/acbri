@@ -1,4 +1,4 @@
-# **Andres Briñez - Arquitecto de un futuro tecnológico trascendental 👋**
+# **Andres Briñez - Arquitecto de un futuro tecnológico trascendental 🎯**
 
 ![Andres Briñez - Innovador Tecnológico](https://pikaso.cdnpk.net/private/production/1335244354/render.jpeg?token=exp=1736467200~hmac=4222d199aab4943175ba105fed833fcac76ffaa01f26281943161ac0fe80cba4)
 

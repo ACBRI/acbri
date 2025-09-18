@@ -1,4 +1,4 @@
-# **Andres Briñez - Arquitecto de un futuro tecnológico trascendental 🎯**
+# **Andres Briñez - Arquitecto de un futuro tecnológico trascendental **
 
 
 

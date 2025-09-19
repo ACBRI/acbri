@@ -1,4 +1,4 @@
-# Hello, I'm Andres Briñez
+# Hello, I'm Andres Brinez
 
 ### ERP Solutions Architect | Full-Stack Developer | Odoo Specialist
 

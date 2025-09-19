@@ -1,14 +1,14 @@
-# Hello, I'm Andres Brinez
+# Hola, soy Andres Briñez
 
-### ERP Solutions Architect | Full-Stack Developer | Odoo Specialist
+### Arquitecto de Soluciones ERP | Desarrollador Full-Stack | Especialista en Odoo
 
 <br>
 
-### About Me
+### Acerca de Mí
 
-I am a Solutions Architect with experience in Full-Stack development and a specialization in Odoo ERP. My profile combines technical skills with a strong business acumen to translate complex requirements into technological solutions that optimize processes and generate a measurable ROI.
+Soy un Arquitecto de Soluciones con experiencia en desarrollo Full-Stack y especialización en Odoo ERP. Mi perfil combina habilidades técnicas con una sólida visión de negocio para traducir requerimientos complejos en soluciones tecnológicas que optimizan procesos y generan un ROI medible.
 
-I design and integrate solutions that include Artificial Intelligence and leverage the AWS cloud to create scalable and secure systems. I have achieved operational cost reductions of up to 30% for clients through digital transformation.
+Diseño e integro soluciones que incluyen Inteligencia Artificial y aprovecho la nube de AWS para crear sistemas escalables y seguros. He logrado reducciones de costos operativos de hasta un 30% para clientes mediante la transformación digital.
 
 <div align="center">
   
@@ -19,14 +19,14 @@ I design and integrate solutions that include Artificial Intelligence and levera
 
 <br>
 
-### Tech Stack
+### Stack Tecnológico
 
 <table align="center">
 <tr>
 <th>Backend & ERP</th>
 <th>Cloud & DevOps</th>
 <th>Frontend</th>
-<th>Artificial Intelligence</th>
+<th>Inteligencia Artificial</th>
 </tr>
 <tr>
 <td align="center" style="vertical-align: top;">
@@ -41,7 +41,7 @@ I design and integrate solutions that include Artificial Intelligence and levera
 <td align="center" style="vertical-align: top;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/><br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/><br>
-<img src="https.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https_//img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
 </td>
 <td align="center" style="vertical-align: top;">
 <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=flat&logo=dialogflow&logoColor=white" alt="Dialogflow"/><br>
@@ -52,35 +52,35 @@ I design and integrate solutions that include Artificial Intelligence and levera
 
 <br>
 
-### Professional Highlights
+### Experiencia Destacada
 
-#### ERP Solutions Architect - Sointem
-**Period:** April 2025 - Present
-- I lead the complete consulting and sales cycle for Odoo ERP solutions.
-- I design AI solutions with Dialogflow and WhatsApp for lead capture.
-- Achieved operational cost reductions of up to 30% for key clients.
+#### Arquitecto de Soluciones ERP - Sointem
+**Periodo:** abril de 2025 - Presente
+- Lidero el ciclo completo de consultoría y venta de soluciones Odoo ERP.
+- Diseño soluciones de IA con Dialogflow y WhatsApp para la captura de leads.
+- Logré reducciones de costos operativos de hasta un 30% para clientes clave.
 
 #### Full Stack Developer - NUTRABIOTICS S.A.S
-**Period:** July 2022 - December 2023
-- Developed custom ERP applications on the Odoo platform.
-- Managed information security and maintained solutions in the AWS cloud.
+**Periodo:** julio de 2022 - diciembre de 2023
+- Desarrollé aplicaciones ERP personalizadas sobre la plataforma Odoo.
+- Gestioné la seguridad de la información y mantuve soluciones en la nube de AWS.
 
 #### Business Owner - ShieldCloud
-**Period:** December 2020 - Present
-- Founded and managed the company, focusing on module development and the implementation of Odoo's *community* and *enterprise* versions.
+**Periodo:** diciembre de 2020 - Presente
+- Fundé y dirigí la empresa, enfocada en el desarrollo de módulos y la implementación de versiones *community* y *enterprise* de Odoo.
 
 <br>
 
-### Core Focus
+### En qué me enfoco
 
--   **ERP Consulting:** Feasibility analysis and ROI planning for Odoo solutions.
--   **Artificial Intelligence:** Integrating chatbots and automatic classifiers to optimize processes.
--   **Cloud Solutions:** Designing and implementing scalable architectures on AWS.
--   **Digital Transformation:** Optimizing business processes to improve efficiency and reduce costs.
+-   **Consultoría ERP:** Análisis de viabilidad y planes de ROI para soluciones Odoo.
+-   **Inteligencia Artificial:** Integración de chatbots y clasificadores automáticos para optimizar procesos.
+-   **Cloud Solutions:** Diseño e implementación de arquitecturas escalables en AWS.
+-   **Transformación Digital:** Optimización de procesos empresariales para mejorar la eficiencia y reducir costos.
 
 <br>
 
-### Certifications
+### Certificaciones
 
 -   **Information Security Learning Path** - Platzi
 -   **AWS Cloud Practitioner Certification Learning Path** - Platzi
@@ -89,17 +89,17 @@ I design and integrate solutions that include Artificial Intelligence and levera
 
 <br>
 
-### Contact
+### Contacto
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acbri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:acbri.19@gmail.com)
 
-**Location:** Quito, Ecuador
+**Ubicación:** Quito, Ecuador
 
 </div>
 
 ---
 
-*I am building my professional path in technology and innovation. I see challenges as opportunities to learn and improve.*
+*Construyo mi camino profesional en tecnología e innovación. Veo los desafíos como oportunidades para aprender y mejorar.*

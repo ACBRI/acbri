@@ -25,8 +25,6 @@ Diseño e integro soluciones que incluyen Inteligencia Artificial y aprovecho la
 <tr>
 <th>Backend & ERP</th>
 <th>Cloud & DevOps</th>
-<th>Frontend</th>
-<th>Inteligencia Artificial</th>
 </tr>
 <tr>
 <td align="center" style="vertical-align: top;">
@@ -37,15 +35,6 @@ Diseño e integro soluciones que incluyen Inteligencia Artificial y aprovecho la
 <td align="center" style="vertical-align: top;">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-</td>
-<td align="center" style="vertical-align: top;">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/><br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/><br>
-<img src="https_//img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-</td>
-<td align="center" style="vertical-align: top;">
-<img src="https://img.shields.io/badge/Dialogflow-FF9800?style=flat&logo=dialogflow&logoColor=white" alt="Dialogflow"/><br>
-<img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp API"/>
 </td>
 </tr>
 </table>

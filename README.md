@@ -1,62 +1,105 @@
-# **Andres Briñez - Estudiante de Ingeniería de Sistemas**
+# Hello, I'm Andres Briñez
 
-### **Construyo mi carrera con enfoque y acción.**
+### ERP Solutions Architect | Full-Stack Developer | Odoo Specialist
 
-![GitHub Followers](https://img.shields.io/github/followers/ACBRI?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/ACBRI?style=social)
+<br>
 
-Empecé con un objetivo claro: aprender, crear y desarrollar tecnología útil. Soy un desarrollador autodidacta que se enfoca en dominar la tecnología para construir soluciones prácticas. Convierto la ambición en acción.
+### About Me
 
-> **"No busco caminos existentes; construyo los míos. Convierto ideas ambiciosas en tecnología funcional."**
+I am a Solutions Architect with experience in Full-Stack development and a specialization in Odoo ERP. My profile combines technical skills with a strong business acumen to translate complex requirements into technological solutions that optimize processes and generate a measurable ROI.
+
+I design and integrate solutions that include Artificial Intelligence and leverage the AWS cloud to create scalable and secure systems. I have achieved operational cost reductions of up to 30% for clients through digital transformation.
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ACBRI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ACBRI&layout=compact&langs_count=6&theme=dracula&hide_border=true)
+
+</div>
+
+<br>
+
+### Tech Stack
+
+<table align="center">
+<tr>
+<th>Backend & ERP</th>
+<th>Cloud & DevOps</th>
+<th>Frontend</th>
+<th>Artificial Intelligence</th>
+</tr>
+<tr>
+<td align="center" style="vertical-align: top;">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/><br>
+<img src="https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white" alt="Odoo"/><br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</td>
+<td align="center" style="vertical-align: top;">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+</td>
+<td align="center" style="vertical-align: top;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/><br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/><br>
+<img src="https.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+</td>
+<td align="center" style="vertical-align: top;">
+<img src="https://img.shields.io/badge/Dialogflow-FF9800?style=flat&logo=dialogflow&logoColor=white" alt="Dialogflow"/><br>
+<img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp API"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+### Professional Highlights
+
+#### ERP Solutions Architect - Sointem
+**Period:** April 2025 - Present
+- I lead the complete consulting and sales cycle for Odoo ERP solutions.
+- I design AI solutions with Dialogflow and WhatsApp for lead capture.
+- Achieved operational cost reductions of up to 30% for key clients.
+
+#### Full Stack Developer - NUTRABIOTICS S.A.S
+**Period:** July 2022 - December 2023
+- Developed custom ERP applications on the Odoo platform.
+- Managed information security and maintained solutions in the AWS cloud.
+
+#### Business Owner - ShieldCloud
+**Period:** December 2020 - Present
+- Founded and managed the company, focusing on module development and the implementation of Odoo's *community* and *enterprise* versions.
+
+<br>
+
+### Core Focus
+
+-   **ERP Consulting:** Feasibility analysis and ROI planning for Odoo solutions.
+-   **Artificial Intelligence:** Integrating chatbots and automatic classifiers to optimize processes.
+-   **Cloud Solutions:** Designing and implementing scalable architectures on AWS.
+-   **Digital Transformation:** Optimizing business processes to improve efficiency and reduce costs.
+
+<br>
+
+### Certifications
+
+-   **Information Security Learning Path** - Platzi
+-   **AWS Cloud Practitioner Certification Learning Path** - Platzi
+-   **Fundamentals of Software Engineering**
+-   **OOP and Algorithms with Python**
+
+<br>
+
+### Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acbri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:acbri.19@gmail.com)
+
+**Location:** Quito, Ecuador
+
+</div>
 
 ---
 
-## **Mi Propósito**
-
-1.  **Resolver Problemas Difíciles:**
-    -   Veo los retos técnicos como oportunidades para aprender y mejorar.
-
-2.  **Dominar la Tecnología:**
-    -   Aprendo desarrollo de software, inteligencia artificial y ciberseguridad desde sus fundamentos.
-
-3.  **Construir Soluciones Reales:**
-    -   Creo herramientas que resuelven problemas específicos para personas e industrias.
-
-4.  **Enfocarme en la Calidad:**
-    -   Mi trabajo refleja un compromiso con la mejora continua y los estándares altos.
-
----
-
-## **Mi Filosofía**
-
-Creo en el aprendizaje continuo. Convierto pequeños pasos en proyectos terminados. Cada línea de código es un avance práctico para construir mejor tecnología.
-
----
-
-## **Conexión y Comunidad**
-
-Quiero conectar con otras personas interesadas en la tecnología y el desarrollo. Creo que juntos podemos construir mejores soluciones.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andres_Briñez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/acbri/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Andres_Briñez-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/ACBRI)  
-[![Email](https://img.shields.io/badge/Email-acbri19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:acbri19@gmail.com)
-
----
-
-## **Proyectos en Desarrollo**
-
-### **1. Desarrollo de Habilidades Fundamentales**
-    -   Construyo una base sólida en desarrollo de software, IA y ciberseguridad a través de proyectos prácticos.
-
-### **2. Herramientas Prácticas**
-    -   Desarrollo soluciones iniciales para problemas específicos, diseñadas para ser útiles y escalables.
-
----
-
-## **Un Compromiso con los Resultados**
-
-Este es el inicio de mi carrera. Empiezo desde cero porque sé que los buenos resultados provienen de una base sólida y un objetivo claro.
-
----
-
-### ** "No me definen mis circunstancias, sino mis acciones. Los resultados se construyen."**
+*I am building my professional path in technology and innovation. I see challenges as opportunities to learn and improve.*

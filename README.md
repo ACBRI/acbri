@@ -2,11 +2,17 @@
 
 # Andrés Briñez
 
-**Solutions Architect · Oil & Gas · LATAM**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Solutions+Architect;Enterprise+Architecture+%7C+Oil+%26+Gas;Complexity+Translator;Building+systems+that+last)](https://git.io/typing-svg)
+
+<br>
 
 <a href="https://www.linkedin.com/in/acbri/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="36" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="mailto:acbri.19@gmail.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="36" alt="Email"/></a>&nbsp;&nbsp;
 <a href="https://github.com/ACBRI"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="36" alt="GitHub"/></a>
+
+<br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ACBRI&color=00B4D8&style=flat&label=Profile+views)
 
 </div>
 
@@ -14,17 +20,17 @@
 
 Soy de Bogotá. Llevo años viviendo en Quito. Antes viví en Australia un tiempo.
 
-Lo que hago, en pocas palabras: entro a organizaciones donde la tecnología y los procesos son un desastre, y los convierto en algo que funciona. No con magia — con arquitectura, criterio y mucho trabajo real.
+Me muevo bien en la frontera donde la tecnología y las personas se encuentran — ese momento en que una organización ya creció más que sus propios sistemas y necesita a alguien que entienda los dos lados: el humano y el técnico. Entro, escucho, entiendo la lógica interna de cómo funciona todo, y construyo la arquitectura que le permite seguir creciendo sin romperse.
 
-Ahora mismo estoy en el sector Oil & Gas, trabajando con operaciones distribuidas en campo. Diseño la infraestructura de datos e implemento los sistemas que permiten que una empresa que opera en varios países pueda tomar decisiones con información real, no con hojas de Excel enviadas por WhatsApp.
+Ahora mismo estoy en el sector Oil & Gas, con operaciones distribuidas en campo. Diseño la infraestructura que conecta datos, procesos y decisiones en tiempo real — para que una empresa que opera en varios países no dependa de hojas de Excel enviadas por WhatsApp.
 
 ---
 
 *I'm from Bogotá. I've been living in Quito for years. Before that I lived in Australia for a while.*
 
-*What I do, in short: I walk into organizations where technology and processes are a mess, and turn them into something that works. Not with magic — with architecture, judgment, and a lot of real work.*
+*I move well at the boundary where technology and people meet — that moment when an organization has outgrown its own systems and needs someone who understands both sides: the human and the technical. I come in, listen, understand the internal logic of how everything works, and build the architecture that lets it keep growing without breaking.*
 
-*Right now I'm in the Oil & Gas sector, working with distributed field operations. I design the data infrastructure and implement the systems that allow a company operating across multiple countries to make decisions with real information — not Excel sheets sent over WhatsApp.*
+*Right now I'm in the Oil & Gas sector, with distributed field operations. I design the infrastructure that connects data, processes, and decisions in real time — so a company operating across multiple countries doesn't depend on Excel sheets sent over WhatsApp.*
 
 ---
 
@@ -35,7 +41,7 @@ Ahora mismo estoy en el sector Oil & Gas, trabajando con operaciones distribuida
 En el último año, partiendo prácticamente de cero:
 
 - ERP desplegado sobre Google Cloud con Terraform y CI/CD
-- Dashboards ejecutivos en Apache Superset conectados a PostgreSQL — control de presupuesto vs. real en tiempo real para proyectos de ingeniería
+- Dashboards ejecutivos en Apache Superset conectados a PostgreSQL — control de presupuesto vs. real para proyectos de ingeniería en tiempo real
 - Automatización de hojas de tiempo que eliminó alrededor del 70% del trabajo manual
 - Documentación técnica y arquitectónica que antes no existía en ningún lado
 
@@ -46,7 +52,7 @@ No son proyectos de laboratorio. Son sistemas que hoy alguien usa para tomar dec
 *In the past year, starting from practically zero:*
 
 - *ERP deployed on Google Cloud with Terraform and CI/CD*
-- *Executive dashboards in Apache Superset connected to PostgreSQL — real-time budget vs. actual tracking for engineering projects*
+- *Executive dashboards in Apache Superset connected to PostgreSQL — real-time budget vs. actual tracking for field engineering projects*
 - *Timesheet automation that eliminated around 70% of manual work*
 - *Technical and architectural documentation that previously didn't exist anywhere*
 
@@ -58,17 +64,23 @@ No son proyectos de laboratorio. Son sistemas que hoy alguien usa para tomar dec
 
 ## Stack
 
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" width="32" alt="Python"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/postgresql.svg" width="32" alt="PostgreSQL"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg" width="32" alt="Docker"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/terraform.svg" width="32" alt="Terraform"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/google.svg" width="32" alt="GCP"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/amazon.svg" width="32" alt="AWS"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/grafana.svg" width="32" alt="Grafana"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/nginx.svg" width="32" alt="Nginx"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cloudflare.svg" width="32" alt="Cloudflare"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" width="32" alt="Git"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width="32" alt="JavaScript"/></a>
+<div align="center">
+
+<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" width="40" alt="Python"/></a>&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/postgresql.svg" width="40" alt="PostgreSQL"/></a>&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg" width="40" alt="Docker"/></a>&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/terraform.svg" width="40" alt="Terraform"/></a>&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/google.svg" width="40" alt="GCP"/></a>&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/amazon.svg" width="40" alt="AWS"/></a>&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/grafana.svg" width="40" alt="Grafana"/></a>&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/nginx.svg" width="40" alt="Nginx"/></a>&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cloudflare.svg" width="40" alt="Cloudflare"/></a>&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" width="40" alt="Git"/></a>&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width="40" alt="JavaScript"/></a>
+
+</div>
+
+<br>
 
 ```
 ERP & Arquitectura     Odoo 18 · PostgreSQL 16 · OCA Modules · Python

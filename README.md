@@ -106,6 +106,7 @@ Implementaciones Odoo, módulos custom, propuestas de transformación digital pa
 Desarrollo sobre Odoo, seguridad de información, infraestructura AWS.
 
 **Antes** — educación, ingeniería, tecnología financiera.
+
 Donde aprendí que si no puedes explicar algo con claridad, probablemente todavía no lo entiendes bien.
 
 ---

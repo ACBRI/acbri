@@ -62,6 +62,22 @@ No son proyectos de laboratorio. Son sistemas que hoy alguien usa para tomar dec
 
 <br>
 
+## Cómo trabajo
+
+Cuando entro a una organización compleja, lo primero no es el código — es entender. Levanto los procesos hablando con la gente, los modelo de forma formal (C4, BPMN, ArchiMate) y dejo registradas las decisiones importantes como ADRs, para que nadie tenga que adivinar después por qué se hizo algo.
+
+Trato la documentación como código: versionada, revisable y viva. Y cuando una tarea repetitiva se puede automatizar — desde transcribir reuniones con IA hasta generar entregables — la automatizo, para que el tiempo se gaste pensando, no copiando.
+
+---
+
+*When I step into a complex organization, the first thing isn't code — it's understanding. I map out processes by talking to people, model them formally (C4, BPMN, ArchiMate), and record the decisions that matter as ADRs, so no one has to guess later why something was done.*
+
+*I treat documentation as code: versioned, reviewable, alive. And when a repetitive task can be automated — from transcribing meetings with AI to generating deliverables — I automate it, so time gets spent thinking, not copying.*
+
+---
+
+<br>
+
 ## Stack
 
 <div align="center">
@@ -84,9 +100,11 @@ No son proyectos de laboratorio. Son sistemas que hoy alguien usa para tomar dec
 
 ```
 ERP & Arquitectura     Odoo 18 · PostgreSQL 16 · OCA Modules · Python
+Modelado EA            C4 / Structurizr · BPMN 2.0 · ArchiMate · ADRs
 Cloud & DevOps         GCP · AWS · Docker · Nginx · Terraform · CI/CD
 Observabilidad         Prometheus · Grafana · Loki · cAdvisor
 Business Intelligence  Apache Superset · Metabase · SQL Views
+Docs & Automatización  Obsidian · LaTeX · React / TypeScript · Whisper / IA
 Seguridad              Cloudflare Tunnel · Network Isolation · OpenSSL
 ```
 

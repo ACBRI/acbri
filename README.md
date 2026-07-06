@@ -2,7 +2,7 @@
 
 # Andrés Briñez
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Solutions+Architect;Enterprise+Architecture+%7C+Oil+%26+Gas;Complexity+Translator;Building+systems+that+last)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=560&lines=AI+Enterprise+Architect;Enterprise+Architecture+%26+Governance;GenAI+%7C+LLMs+%7C+Agents;AI-First+Adoption;Complexity+Translator)](https://git.io/typing-svg)
 
 <br>
 
@@ -14,65 +14,54 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ACBRI&color=00B4D8&style=flat&label=Profile+views)
 
+<br>
+
+**English**  ·  [Español](README.es.md)
+
 </div>
 
 ---
 
-Soy de Bogotá. Llevo años viviendo en Quito. Antes viví en Australia un tiempo.
+**AI Enterprise Architect & Governance — Enterprise Architecture**
 
-Me muevo bien en la frontera donde la tecnología y las personas se encuentran — ese momento en que una organización ya creció más que sus propios sistemas y necesita a alguien que entienda los dos lados: el humano y el técnico. Entro, escucho, entiendo la lógica interna de cómo funciona todo, y construyo la arquitectura que le permite seguir creciendo sin romperse.
+I'm from Bogotá. I've spent years in Ecuador —Quito, now Cuenca—; before that I lived in Australia for a while.
 
-Ahora mismo estoy en el sector Oil & Gas, con operaciones distribuidas en campo. Diseño la infraestructura que conecta datos, procesos y decisiones en tiempo real — para que una empresa que opera en varios países no dependa de hojas de Excel enviadas por WhatsApp.
+I work at the boundary where technology, people, and AI meet: I step into organizations that have outgrown their own systems, understand their internal logic, and design the architecture —and the AI governance— that lets them keep growing without breaking.
 
----
-
-*I'm from Bogotá. I've been living in Quito for years. Before that I lived in Australia for a while.*
-
-*I move well at the boundary where technology and people meet — that moment when an organization has outgrown its own systems and needs someone who understands both sides: the human and the technical. I come in, listen, understand the internal logic of how everything works, and build the architecture that lets it keep growing without breaking.*
-
-*Right now I'm in the Oil & Gas sector, with distributed field operations. I design the infrastructure that connects data, processes, and decisions in real time — so a company operating across multiple countries doesn't depend on Excel sheets sent over WhatsApp.*
+Today I'm building the enterprise-AI capability of a consumer-goods multinational: solution architecture, integrating GenAI and agents into the business, and end-to-end AI-First adoption.
 
 ---
 
 <br>
 
-## Lo que he construido recientemente
+## Focus
 
-En el último año, partiendo prácticamente de cero:
-
-- ERP desplegado sobre Google Cloud con Terraform y CI/CD
-- Dashboards ejecutivos en Apache Superset conectados a PostgreSQL — control de presupuesto vs. real para proyectos de ingeniería en tiempo real
-- Automatización de hojas de tiempo que eliminó alrededor del 70% del trabajo manual
-- Documentación técnica y arquitectónica que antes no existía en ningún lado
-
-No son proyectos de laboratorio. Son sistemas que hoy alguien usa para tomar decisiones que cuestan dinero real.
-
----
-
-*In the past year, starting from practically zero:*
-
-- *ERP deployed on Google Cloud with Terraform and CI/CD*
-- *Executive dashboards in Apache Superset connected to PostgreSQL — real-time budget vs. actual tracking for field engineering projects*
-- *Timesheet automation that eliminated around 70% of manual work*
-- *Technical and architectural documentation that previously didn't exist anywhere*
-
-*These aren't lab projects. They're systems that someone uses today to make decisions that cost real money.*
+One focus, in depth: **Enterprise AI Architecture and Governance**. I don't train models or run scattered experiments — I stand up the function, earn executive sponsorship, govern how AI and agents are used across the company, and turn scattered use cases into a real, adopted capability.
 
 ---
 
 <br>
 
-## Cómo trabajo
+## What I've built
 
-Cuando entro a una organización compleja, lo primero no es el código — es entender. Levanto los procesos hablando con la gente, los modelo de forma formal (C4, BPMN, ArchiMate) y dejo registradas las decisiones importantes como ADRs, para que nadie tenga que adivinar después por qué se hizo algo.
+- Architecture of an end-to-end commercial transformation for a consumer-goods multinational — TO-BE model, GAP analysis, systems integration
+- A generative-AI pipeline for meeting transcription and minutes (Whisper + diarization + cleanup)
+- Reunia — an AI-first meeting-intelligence platform (in progress)
+- LLM-agent workflows that produce documentation and deliverables consistently
+- ERP deployed on the cloud with Terraform and CI/CD; executive dashboards (Apache Superset) for budget vs. actual; automation that removed around 70% of manual work
+- Architectural modeling and documentation (C4/Structurizr, BPMN, ArchiMate, ADRs) where none existed before
 
-Trato la documentación como código: versionada, revisable y viva. Y cuando una tarea repetitiva se puede automatizar — desde transcribir reuniones con IA hasta generar entregables — la automatizo, para que el tiempo se gaste pensando, no copiando.
+These aren't lab projects. They're systems someone uses today to make decisions that cost real money.
 
 ---
 
-*When I step into a complex organization, the first thing isn't code — it's understanding. I map out processes by talking to people, model them formally (C4, BPMN, ArchiMate), and record the decisions that matter as ADRs, so no one has to guess later why something was done.*
+<br>
 
-*I treat documentation as code: versioned, reviewable, alive. And when a repetitive task can be automated — from transcribing meetings with AI to generating deliverables — I automate it, so time gets spent thinking, not copying.*
+## How I work
+
+When I step into a complex organization, the first thing isn't code — it's understanding. I map out processes by talking to people, model them formally (C4, BPMN, ArchiMate), and record the decisions that matter as ADRs, so no one has to guess later why something was done. I treat governance the same way: clear rules for how AI and data are used, not locks that slow the business down.
+
+I treat documentation as code: versioned, reviewable, alive. And when a repetitive task can be automated —from transcribing meetings with AI to generating deliverables— I automate it, so time gets spent thinking, not copying.
 
 ---
 
@@ -99,58 +88,55 @@ Trato la documentación como código: versionada, revisable y viva. Y cuando una
 <br>
 
 ```
-ERP & Arquitectura     Odoo 18 · PostgreSQL 16 · OCA Modules · Python
-Modelado EA            C4 / Structurizr · BPMN 2.0 · ArchiMate · ADRs
-Cloud & DevOps         GCP · AWS · Docker · Nginx · Terraform · CI/CD
-Observabilidad         Prometheus · Grafana · Loki · cAdvisor
-Business Intelligence  Apache Superset · Metabase · SQL Views
-Docs & Automatización  Obsidian · LaTeX · React / TypeScript · Whisper / IA
-Seguridad              Cloudflare Tunnel · Network Isolation · OpenSSL
+AI & GenAI              OpenAI · Anthropic (Claude) · Vertex AI / Gemini · RAG · Agents · Whisper
+Governance & Risk       NIST AI RMF · ISO/IEC 42001 (adopting) · DLP · AI usage policies
+Enterprise Architecture C4 / Structurizr · BPMN 2.0 · ArchiMate · ADRs · TOGAF (in progress)
+ERP & Data              Odoo (v14–v20) · PostgreSQL 16 · OCA Modules · Python
+Cloud & DevOps          GCP · AWS · Docker · Nginx · Terraform · CI/CD
+Observability           Prometheus · Grafana · Loki · cAdvisor
+Business Intelligence   Apache Superset · Metabase · SQL Views
+Docs & Automation       Obsidian · LaTeX · React / TypeScript
 ```
 
 ---
 
 <br>
 
-## Trayectoria
+## Experience
 
-**Oil & Gas Engineering · Solutions Architect & Process Analyst** — *2024 – hoy*
-Arquitectura enterprise, ERP, BI y transformación digital para operaciones de ingeniería distribuidas en LATAM.
+**PENTA Digital Lab · AI & ERP Solutions Architect** — *May 2026 – present · Cuenca, Ecuador*
+Enterprise architecture, GenAI and agent integration, and AI-First adoption for a consumer-goods multinational.
 
-**Consultoría independiente · Arquitecto de Soluciones** — *2020 – 2024*
-Implementaciones Odoo, módulos custom, propuestas de transformación digital para empresas de la región.
+**Oil & Gas Engineering · Solutions Architect & Process Analyst** — *2025 – 2026*
+Enterprise architecture, ERP, BI, and digital transformation for distributed engineering operations across LATAM.
+
+**Independent consulting · Solutions Architect** — *2020 – 2024*
+Odoo implementations, custom modules, and digital-transformation proposals for regional companies.
 
 **NUTRABIOTICS S.A.S · Full Stack Developer** — *2022 – 2023*
-Desarrollo sobre Odoo, seguridad de información, infraestructura AWS.
+Odoo development, information security, and AWS infrastructure.
 
-**Antes** — educación, ingeniería, tecnología financiera.
+**Earlier** — education, engineering, financial technology.
 
-Donde aprendí que si no puedes explicar algo con claridad, probablemente todavía no lo entiendes bien.
-
----
-
-<br>
-
-## Formación
-
-Ingeniería de Sistemas — UNAD Colombia *(en curso)*
-47+ certificaciones en cloud, seguridad, datos y arquitectura
+Where I learned that if you can't explain something clearly, you probably don't understand it well enough yet.
 
 ---
 
 <br>
 
-## Hacia dónde voy
+## Education
 
-Quiero trabajar como Arquitecto Empresarial en proyectos internacionales, de forma remota. Sectores industriales — Oil & Gas, Energía, Ingeniería. Me estoy certificando en TOGAF.
-
-No me mueve el título. Me mueve construir cosas que duren y que importen.
+Systems Engineering — UNAD Colombia *(in progress)*
+47+ certifications in cloud, security, data, and architecture
+Currently pursuing TOGAF and AI-governance frameworks (NIST AI RMF, ISO/IEC 42001)
 
 ---
 
-*I want to work as an Enterprise Architect on international projects, remotely. Industrial sectors — Oil & Gas, Energy, Engineering. I'm currently pursuing TOGAF certification.*
+<br>
 
-*I'm not motivated by the title. I'm motivated by building things that last and that matter.*
+## Where I'm heading
+
+I want to lead AI architecture and governance in international organizations, remotely. I'm not driven by the title — I'm driven by building AI capabilities that last and that matter.
 
 ---
 
@@ -158,8 +144,8 @@ No me mueve el título. Me mueve construir cosas que duren y que importen.
 
 <br>
 
-*Quito, Ecuador*
+Cuenca, Ecuador
 
-<a href="https://www.linkedin.com/in/acbri/">Conectemos en LinkedIn</a>
+<a href="https://www.linkedin.com/in/acbri/">Let's connect on LinkedIn</a>
 
 </div>

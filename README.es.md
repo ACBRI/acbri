@@ -2,7 +2,11 @@
 
 # Andrés Briñez
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=B5430F&center=true&vCenter=true&width=620&lines=Arquitecto+de+IA+Empresarial;Arquitectura+empresarial+y+gobernanza+de+IA;ERP+que+opera+%7C+RAG+%7C+Agentes;Dise%C3%B1o+y+pongo+a+operar)](https://git.io/typing-svg)
+![Arquitectura empresarial](https://img.shields.io/badge/Arquitectura_empresarial-27201B?style=flat-square)
+![Gobernanza de IA](https://img.shields.io/badge/Gobernanza_de_IA-B5430F?style=flat-square)
+![Odoo](https://img.shields.io/badge/Odoo_14--20-27201B?style=flat-square)
+![RAG y agentes](https://img.shields.io/badge/RAG_y_agentes-B5430F?style=flat-square)
+![Quito](https://img.shields.io/badge/Quito,_Ecuador-6E6156?style=flat-square)
 
 <br>
 

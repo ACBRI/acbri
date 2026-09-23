@@ -2,7 +2,11 @@
 
 # Andrés Briñez
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=B5430F&center=true&vCenter=true&width=620&lines=AI+Enterprise+Architect;Enterprise+Architecture+%26+AI+Governance;ERP+that+runs+%7C+RAG+%7C+Agents;I+ship+what+I+design)](https://git.io/typing-svg)
+![Enterprise Architecture](https://img.shields.io/badge/Enterprise_Architecture-27201B?style=flat-square)
+![AI Governance](https://img.shields.io/badge/AI_Governance-B5430F?style=flat-square)
+![Odoo](https://img.shields.io/badge/Odoo_14--20-27201B?style=flat-square)
+![RAG and Agents](https://img.shields.io/badge/RAG_and_Agents-B5430F?style=flat-square)
+![Quito](https://img.shields.io/badge/Quito,_Ecuador-6E6156?style=flat-square)
 
 <br>
 

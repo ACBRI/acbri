@@ -2,17 +2,14 @@
 
 # Andrés Briñez
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=560&lines=AI+Enterprise+Architect;Enterprise+Architecture+%26+Governance;GenAI+%7C+LLMs+%7C+Agents;AI-First+Adoption;Complexity+Translator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=B5430F&center=true&vCenter=true&width=620&lines=Arquitecto+de+IA+Empresarial;Arquitectura+empresarial+y+gobernanza+de+IA;ERP+que+opera+%7C+RAG+%7C+Agentes;Dise%C3%B1o+y+pongo+a+operar)](https://git.io/typing-svg)
 
 <br>
 
+<a href="https://andresbrinez.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" width="36" alt="Sitio"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/acbri/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="36" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:acbri.19@gmail.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="36" alt="Email"/></a>&nbsp;&nbsp;
+<a href="mailto:acbri.19@gmail.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="36" alt="Correo"/></a>&nbsp;&nbsp;
 <a href="https://github.com/ACBRI"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="36" alt="GitHub"/></a>
-
-<br>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ACBRI&color=00B4D8&style=flat&label=Profile+views)
 
 <br>
 
@@ -22,21 +19,21 @@
 
 ---
 
-**Arquitecto de IA Empresarial y Gobernanza — Enterprise Architecture**
+**Arquitecto de IA empresarial · Arquitectura empresarial y gobernanza de IA · Quito, Ecuador**
 
-Soy de Bogotá. Llevo años en Ecuador —Quito, y ahora Cuenca—; antes viví un tiempo en Australia.
+Entro en organizaciones que se quedaron pequeñas dentro de sus propios sistemas, entiendo cómo operan de verdad y diseño la arquitectura —y la gobernanza de IA— que les permite seguir creciendo sin romperse.
 
-Trabajo en la frontera donde la tecnología, las personas y la IA se encuentran: entro a organizaciones que ya crecieron más que sus propios sistemas, entiendo su lógica interna, y diseño la arquitectura —y el gobierno de la IA— que les permite seguir creciendo sin romperse.
-
-Hoy construyo la capacidad de IA empresarial de una multinacional de consumo masivo: arquitectura de soluciones, integración de GenAI y agentes en el negocio, y adopción AI-First de punta a punta.
+Dos cosas separan lo que hago de una presentación. La primera es que implemento lo que diseño: el ERP sale a producción, el proceso corre solo todas las noches, el modelo responde con los documentos de la propia empresa. La segunda es que dejo las decisiones escritas, de una forma que alguien pueda auditar un año después.
 
 ---
 
 <br>
 
-## Enfoque
+## En qué estoy ahora
 
-Un solo foco, en profundidad: **Arquitectura de IA Empresarial y Gobernanza**. No entreno modelos ni corro experimentos sueltos — monto el área, gano el sponsorship ejecutivo, gobierno cómo se usan la IA y los agentes en toda la compañía, y convierto casos de uso dispersos en una capacidad real y adoptada.
+**Capacidad de IA empresarial para una multinacional de consumo masivo** (a través de PENTA Digital Lab). Arquitectura de solución para una transformación comercial de punta a punta: levantamiento del estado actual, análisis de brechas, modelo objetivo, integración de sistemas, y la IA generativa y los agentes dentro de los procesos del negocio, no al lado.
+
+**Una consultoría que opera con los sistemas que vende.** [andresbrinez.com](https://andresbrinez.com) es mi propio Odoo 19 Community, autohospedado, sirviendo desde un solo sistema el sitio público, el portal de cliente, el CRM, las cotizaciones y la facturación. Integración continua en máquinas propias, despliegue con una orden, respaldos probados de extremo a extremo. Cada producto que vendo se probó primero contra mi propio negocio.
 
 ---
 
@@ -44,14 +41,39 @@ Un solo foco, en profundidad: **Arquitectura de IA Empresarial y Gobernanza**. N
 
 ## Lo que he construido
 
-- Arquitectura de una transformación comercial end-to-end para una multinacional de consumo masivo — modelo TO-BE, análisis GAP e integración de sistemas
-- Un pipeline de IA generativa para transcripción y minutas de reuniones (Whisper + diarización + limpieza)
-- Reunia — plataforma IA-first de inteligencia de reuniones (en construcción)
-- Flujos con agentes LLM que producen documentación y entregables de forma consistente
-- ERP sobre la nube con Terraform y CI/CD; dashboards ejecutivos (Apache Superset) de presupuesto vs. real; automatización que eliminó cerca del 70% del trabajo manual
-- Modelado y documentación arquitectónica (C4/Structurizr, BPMN, ArchiMate, ADRs) donde antes no existía
+**Arquitectura empresarial y ERP**
 
-No son proyectos de laboratorio. Son sistemas que alguien usa hoy para tomar decisiones que cuestan dinero real.
+- Arquitectura de una transformación comercial de punta a punta para una multinacional de consumo masivo: modelo objetivo, análisis de brechas, integración de sistemas
+- Facturación electrónica del SRI para Odoo 19: ocho módulos portados desde la línea 18.0 de la OCA —facturas, notas de crédito y débito, retenciones, liquidaciones de compra, guías de remisión, el ATS y la recepción de comprobantes de proveedor— con 314 pruebas automáticas e integración continua
+- Retención en la fuente de Colombia para Odoo 19: retenciones, actividades económicas CIIU y el puente con la factura electrónica, para que cada retención declare su tributo en el XML
+- Contabilidad de dos países en producción (Ecuador y Colombia), con un clasificador de gastos que consulta la actividad económica registrada del proveedor antes de preguntarle a un modelo
+- Radar de actualización de Odoo: recorre un código propio y dice qué se rompe en la siguiente versión, con archivo y línea, en el orden que conviene arreglarlo
+
+**IA en producción**
+
+- Respuestas sobre los documentos y los datos del ERP de una empresa, construido como manda la literatura de producción: recuperación híbrida desde el primer día, reordenamiento de resultados, un umbral de fidelidad medido y un conjunto de preguntas reales con su respuesta escrita
+- Un proceso de IA generativa para transcripción y minutas de reuniones (Whisper con separación de hablantes, y después limpieza)
+- Reunia — plataforma de inteligencia de reuniones, en construcción
+- Flujos con agentes que convierten la transcripción de una reunión en historias de usuario
+
+**Modelado y documentación**
+
+- C4 con Structurizr, BPMN 2.0, ArchiMate y registros de decisiones de arquitectura, en organizaciones que no tenían ninguno
+- Documentación como código: versionada, revisable y todavía cierta cuando el consultor se va
+
+No son proyectos de laboratorio. Son sistemas que alguien usa hoy para tomar decisiones que cuestan dinero.
+
+---
+
+<br>
+
+## Lo que se puede comprobar desde fuera
+
+La mayor parte de mi trabajo vive en repositorios privados, por la razón evidente. Lo que sí se puede verificar:
+
+- **[andresbrinez.com](https://andresbrinez.com)** — el sitio es la prueba: corre sobre la pila que describe, en dos idiomas y con los precios publicados
+- **[Odoo Community Association](https://github.com/OCA)** — acuerdo de contribución firmado; revisiones de código en [purchase-workflow](https://github.com/OCA/purchase-workflow/pull/3097) y traductor de español en el Weblate de la OCA
+- **[discovery-copilot](https://github.com/ACBRI/discovery-copilot)** — un agente que convierte una reunión en historias de usuario, construido sobre una transcripción ficticia para poder quedarse público
 
 ---
 
@@ -59,15 +81,17 @@ No son proyectos de laboratorio. Son sistemas que alguien usa hoy para tomar dec
 
 ## Cómo trabajo
 
-Cuando entro a una organización compleja, lo primero no es el código — es entender. Levanto los procesos hablando con la gente, los modelo de forma formal (C4, BPMN, ArchiMate) y registro las decisiones importantes como ADRs, para que nadie tenga que adivinar después por qué se hizo algo. La gobernanza la trato igual: reglas claras de cómo se usan la IA y los datos, no candados que frenen al negocio.
+Lo primero nunca es el código: es entender. Levanto los procesos hablando con quienes los ejecutan, los modelo formalmente y dejo registradas las decisiones que importan, para que nadie tenga que adivinar después por qué se hizo algo así.
 
-Trato la documentación como código: versionada, revisable y viva. Y cuando una tarea repetitiva se puede automatizar —desde transcribir reuniones con IA hasta generar entregables— la automatizo, para que el tiempo se gaste pensando, no copiando.
+La gobernanza la trato igual: reglas claras de cómo se usan la IA y los datos, no candados que frenen al negocio. Y cuando una tarea repetitiva se puede automatizar, la automatizo, para que el tiempo se gaste en pensar y no en copiar.
+
+Decido por *satisficing*, en el sentido de Herbert Simon: fijar el nivel que una solución debe cumplir y tomar la primera alternativa que lo cumple. El sistema maximizador llega tarde y a veces no llega.
 
 ---
 
 <br>
 
-## Stack
+## Herramientas
 
 <div align="center">
 
@@ -88,37 +112,35 @@ Trato la documentación como código: versionada, revisable y viva. Y cuando una
 <br>
 
 ```
-IA & GenAI              OpenAI · Anthropic (Claude) · Vertex AI / Gemini · RAG · Agentes · Whisper
-Gobernanza & Riesgo     NIST AI RMF · ISO/IEC 42001 (en adopción) · DLP · políticas de uso de IA
-Arquitectura EA         C4 / Structurizr · BPMN 2.0 · ArchiMate · ADRs · TOGAF (en curso)
-ERP & Datos             Odoo (v14–v20) · PostgreSQL 16 · OCA Modules · Python
-Cloud & DevOps          GCP · AWS · Docker · Nginx · Terraform · CI/CD
+IA y generativa         Anthropic (Claude) · OpenAI · Vertex AI / Gemini · RAG · Agentes · Whisper
+Gobernanza y riesgo     NIST AI RMF · ISO/IEC 42001 (en adopción) · DLP · políticas de uso de IA
+Arquitectura empresarial C4 / Structurizr · BPMN 2.0 · ArchiMate · ADR · TOGAF (en curso)
+ERP y datos             Odoo 14-20 · módulos OCA · PostgreSQL 17 · Python
+Nube y DevOps           GCP · AWS · Docker · Terraform · Cloudflare · GitHub Actions · CI/CD
 Observabilidad          Prometheus · Grafana · Loki · cAdvisor
-Business Intelligence   Apache Superset · Metabase · SQL Views
-Docs & Automatización   Obsidian · LaTeX · React / TypeScript
+Inteligencia de negocio Apache Superset · Metabase · vistas SQL
+Documentación           Obsidian · LaTeX · React / TypeScript
 ```
 
 ---
 
 <br>
 
-## Trayectoria
+## Experiencia
 
-**PENTA Digital Lab · Arquitecto de Soluciones de IA & ERP** — *May 2026 – hoy · Cuenca, Ecuador*
-Arquitectura empresarial, integración de GenAI y agentes, y adopción AI-First para una multinacional de consumo masivo.
+**PENTA Digital Lab · Arquitecto de soluciones de IA y ERP** — *mayo 2026 – hoy · Ecuador*
+Arquitectura empresarial, integración de IA generativa y agentes, y adopción de IA en una multinacional de consumo masivo.
 
-**Oil & Gas Engineering · Solutions Architect & Process Analyst** — *2025 – 2026*
-Arquitectura enterprise, ERP, BI y transformación digital para operaciones de ingeniería distribuidas en LATAM.
+**Práctica independiente · Arquitectura empresarial, Odoo e IA aplicada** — *2020 – hoy · Ecuador y Colombia*
+Levantamiento de procesos, mapas de arquitectura, implementaciones de Odoo con la localización de Ecuador y Colombia, e IA dentro de procesos reales. Alcance escrito y precios publicados.
 
-**Consultoría independiente · Arquitecto de Soluciones** — *2020 – 2024*
-Implementaciones Odoo, módulos custom y propuestas de transformación digital para empresas de la región.
+**Oil & Gas Engineering · Arquitecto de soluciones y analista de procesos** — *2025 – 2026*
+Arquitectura empresarial, ERP, inteligencia de negocio y transformación digital para operaciones de ingeniería distribuidas en Latinoamérica.
 
-**NUTRABIOTICS S.A.S · Full Stack Developer** — *2022 – 2023*
-Desarrollo sobre Odoo, seguridad de información e infraestructura AWS.
+**NUTRABIOTICS S.A.S · Desarrollador full stack** — *2022 – 2023*
+Desarrollo en Odoo, seguridad de la información e infraestructura en AWS.
 
-**Antes** — educación, ingeniería, tecnología financiera.
-
-Donde aprendí que si no puedes explicar algo con claridad, probablemente todavía no lo entiendes bien.
+**Antes** — educación, ingeniería y tecnología financiera. Donde aprendí que si uno no puede explicar algo con claridad, probablemente todavía no lo entiende del todo.
 
 ---
 
@@ -127,8 +149,8 @@ Donde aprendí que si no puedes explicar algo con claridad, probablemente todav�
 ## Formación
 
 Ingeniería de Sistemas — UNAD Colombia *(en curso)*
-47+ certificaciones en cloud, seguridad, datos y arquitectura
-Certificándome en TOGAF y en marcos de gobernanza de IA (NIST AI RMF, ISO/IEC 42001)
+Más de 47 certificaciones en nube, seguridad, datos y arquitectura
+Trabajando en TOGAF y en los marcos de gobernanza de IA (NIST AI RMF, ISO/IEC 42001)
 
 ---
 
@@ -136,7 +158,7 @@ Certificándome en TOGAF y en marcos de gobernanza de IA (NIST AI RMF, ISO/IEC 4
 
 ## Hacia dónde voy
 
-Quiero liderar la arquitectura y la gobernanza de IA en organizaciones internacionales, de forma remota. No me mueve el título — me mueve construir capacidades de IA que duren y que importen.
+Quiero dirigir arquitectura y gobernanza de IA en organizaciones internacionales, en remoto. No por el cargo: por construir capacidades de IA que duren y que alguien use de verdad.
 
 ---
 
@@ -144,8 +166,16 @@ Quiero liderar la arquitectura y la gobernanza de IA en organizaciones internaci
 
 <br>
 
-Cuenca, Ecuador
+[![Racha de contribuciones](https://streak-stats.demolab.com?user=ACBRI&hide_border=true&background=F3EFE2&ring=B5430F&fire=B5430F&currStreakLabel=27201B&sideLabels=6E6156&dates=6E6156&currStreakNum=27201B&sideNums=27201B&stroke=DED7C8&locale=es)](https://github.com/ACBRI)
 
-<a href="https://www.linkedin.com/in/acbri/">Conectemos en LinkedIn</a>
+<br>
+
+[![Gráfico de contribuciones](https://ghchart.rshah.org/B5430F/ACBRI)](https://github.com/ACBRI)
+
+<br>
+
+Quito, Ecuador
+
+<a href="https://andresbrinez.com">andresbrinez.com</a> · <a href="https://www.linkedin.com/in/acbri/">LinkedIn</a>
 
 </div>

@@ -112,14 +112,14 @@ Decido por *satisficing*, en el sentido de Herbert Simon: fijar el nivel que una
 <br>
 
 ```
-IA y generativa         Anthropic (Claude) · OpenAI · Vertex AI / Gemini · RAG · Agentes · Whisper
-Gobernanza y riesgo     NIST AI RMF · ISO/IEC 42001 (en adopción) · DLP · políticas de uso de IA
-Arquitectura empresarial C4 / Structurizr · BPMN 2.0 · ArchiMate · ADR · TOGAF (en curso)
-ERP y datos             Odoo 14-20 · módulos OCA · PostgreSQL 17 · Python
-Nube y DevOps           GCP · AWS · Docker · Terraform · Cloudflare · GitHub Actions · CI/CD
-Observabilidad          Prometheus · Grafana · Loki · cAdvisor
-Inteligencia de negocio Apache Superset · Metabase · vistas SQL
-Documentación           Obsidian · LaTeX · React / TypeScript
+IA y generativa       Claude · OpenAI · Gemini · RAG · Agentes · Whisper
+Gobernanza y riesgo   NIST AI RMF · ISO/IEC 42001 · DLP · políticas de uso
+Arquitectura          C4 / Structurizr · BPMN 2.0 · ArchiMate · ADR · TOGAF
+ERP y datos           Odoo 14-20 · módulos OCA · PostgreSQL 17 · Python
+Nube y DevOps         GCP · AWS · Docker · Terraform · GitHub Actions · CI/CD
+Observabilidad        Prometheus · Grafana · Loki · cAdvisor
+Inteligencia negocio  Apache Superset · Metabase · vistas SQL
+Documentación         Obsidian · LaTeX · React / TypeScript
 ```
 
 ---
@@ -163,10 +163,6 @@ Quiero dirigir arquitectura y gobernanza de IA en organizaciones internacionales
 ---
 
 <div align="center">
-
-<br>
-
-[![Racha de contribuciones](https://streak-stats.demolab.com?user=ACBRI&hide_border=true&background=F3EFE2&ring=B5430F&fire=B5430F&currStreakLabel=27201B&sideLabels=6E6156&dates=6E6156&currStreakNum=27201B&sideNums=27201B&stroke=DED7C8&locale=es)](https://github.com/ACBRI)
 
 <br>
 

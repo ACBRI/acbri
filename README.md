@@ -112,14 +112,14 @@ I decide by satisficing, in Herbert Simon's sense: set the level a solution has 
 <br>
 
 ```
-AI and GenAI            Anthropic (Claude) · OpenAI · Vertex AI / Gemini · RAG · Agents · Whisper
-Governance and risk     NIST AI RMF · ISO/IEC 42001 (adopting) · DLP · AI usage policies
-Enterprise architecture C4 / Structurizr · BPMN 2.0 · ArchiMate · ADRs · TOGAF (in progress)
-ERP and data            Odoo 14-20 · OCA modules · PostgreSQL 17 · Python
-Cloud and DevOps        GCP · AWS · Docker · Terraform · Cloudflare · GitHub Actions · CI/CD
-Observability           Prometheus · Grafana · Loki · cAdvisor
-Business intelligence   Apache Superset · Metabase · SQL views
-Docs and automation     Obsidian · LaTeX · React / TypeScript
+AI and GenAI          Claude · OpenAI · Gemini · RAG · Agents · Whisper
+Governance and risk   NIST AI RMF · ISO/IEC 42001 · DLP · AI usage policies
+Architecture          C4 / Structurizr · BPMN 2.0 · ArchiMate · ADRs · TOGAF
+ERP and data          Odoo 14-20 · OCA modules · PostgreSQL 17 · Python
+Cloud and DevOps      GCP · AWS · Docker · Terraform · GitHub Actions · CI/CD
+Observability         Prometheus · Grafana · Loki · cAdvisor
+Business intelligence Apache Superset · Metabase · SQL views
+Docs and automation   Obsidian · LaTeX · React / TypeScript
 ```
 
 ---
@@ -163,10 +163,6 @@ I want to lead AI architecture and governance in international organizations, re
 ---
 
 <div align="center">
-
-<br>
-
-[![Contribution streak](https://streak-stats.demolab.com?user=ACBRI&hide_border=true&background=F3EFE2&ring=B5430F&fire=B5430F&currStreakLabel=27201B&sideLabels=6E6156&dates=6E6156&currStreakNum=27201B&sideNums=27201B&stroke=DED7C8)](https://github.com/ACBRI)
 
 <br>
 

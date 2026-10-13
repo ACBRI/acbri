@@ -7,7 +7,7 @@
 <g transform="translate(1123.6 12.9) scale(1.1)" fill="none" stroke="#27201B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
 <path d="M3 41H36"/>
 <path d="M9 58L36 8"/>
-<path d="M36 58V8"/>
+<path d="M36 8V58"/>
 <path d="M36 8H45A11 11 0 0 1 45 30H36"/>
 <path d="M36 30H47A14 14 0 0 1 47 58H36"/>
 </g>

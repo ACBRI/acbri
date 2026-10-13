@@ -248,7 +248,7 @@ def monograma(tema: dict, x: float, y: float, escala: float, animado: bool) -> s
     partes = [
         ("M3 41H36", "t1"),       # el horizonte: la barra de la A
         ("M9 58L36 8", "t2"),     # la A: una diagonal que sube desde el llano
-        ("M36 58V8", "t3"),       # el tallo compartido, que sube desde el llano
+        ("M36 8V58", "t3"),       # el tallo compartido: baja desde donde llega la A
         ("M36 8H45A11 11 0 0 1 45 30H36", "t4"),   # la panza alta de la B
         ("M36 30H47A14 14 0 0 1 47 58H36", "t5"),  # la panza baja
     ]
@@ -319,12 +319,12 @@ def estilos(tema: dict, t: float | None) -> str:
 .cielo{{animation:encender 2.4s ease-out {r(0)} backwards}}
 .sol{{animation:salir 2.4s cubic-bezier(.2,.7,.2,1) {r(0)} backwards}}
 .halo{{transform-origin:{_n(SOL_X)}px {_n(SOL_Y)}px;animation:aparecer 2.4s ease-out {r(0)} backwards,respirar 8s ease-in-out {r(2.4)} infinite}}
-.t{{stroke-dasharray:1 1.2;animation:trazar 1.1s cubic-bezier(.5,0,.2,1) backwards}}
-.t1{{animation-delay:{r(0.15)}}}
-.t2{{animation-delay:{r(0.45)}}}
-.t3{{animation-delay:{r(0.75)}}}
-.t4{{animation-delay:{r(1.05)}}}
-.t5{{animation-delay:{r(1.25)}}}
+.t{{stroke-dasharray:1 1.2;animation:trazar .9s cubic-bezier(.5,0,.2,1) backwards}}
+.t1{{animation-delay:{r(0.1)}}}
+.t2{{animation-delay:{r(0.35)}}}
+.t3{{animation-delay:{r(1.05)}}}
+.t4{{animation-delay:{r(1.35)}}}
+.t5{{animation-delay:{r(1.55)}}}
 .llano{{stroke-dasharray:1 1.2;animation:trazar 1.9s cubic-bezier(.4,0,.2,1) {r(0.35)} backwards}}
 .nombre{{animation:subir 1s ease-out {r(0.9)} backwards}}
 .lema{{animation:subir 1s ease-out {r(1.25)} backwards}}

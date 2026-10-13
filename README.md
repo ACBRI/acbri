@@ -26,8 +26,8 @@ scope in writing before I start, and results you can check.
 
 ## What I do today
 
-I work for myself. **Andrés Briñez** is my own practice, run from Quito
-since September 2026, and it runs on its own product:
+I work for myself. **Andrés Briñez** is my own practice, based in Quito
+since September 2026. It operates on its own product:
 [andresbrinez.com](https://andresbrinez.com) is a self-hosted Odoo 19
 Community instance that serves the public site in two languages, the client
 portal, the CRM, quotations and invoicing from a single system.

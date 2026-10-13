@@ -27,8 +27,8 @@ comprobar.
 
 ## Qué hago hoy
 
-Trabajo por mi cuenta. **Andrés Briñez** es mi propia empresa, desde Quito y
-desde septiembre de 2026, y opera con su propio producto:
+Trabajo por mi cuenta. **Andrés Briñez** es mi propia empresa, en Quito
+desde septiembre de 2026. Opera con su propio producto:
 [andresbrinez.com](https://andresbrinez.com) es un Odoo 19 Community
 autohospedado que sirve desde un solo sistema el sitio público en dos
 idiomas, el portal de cliente, el CRM, las cotizaciones y la facturación.
@@ -78,8 +78,8 @@ está abajo.
 - **[andresbrinez.com](https://andresbrinez.com)**: el sitio corre sobre la
   pila que describe, en dos idiomas y con los precios publicados.
 - **[Odoo Community Association](https://github.com/OCA)**: acuerdo de
-  contribución firmado; dos revisiones con aprobación en solicitudes que se
-  fusionaron en purchase-workflow
+  contribución firmado; dos revisiones con aprobación en solicitudes de
+  cambio que se fusionaron en purchase-workflow
   ([#3097](https://github.com/OCA/purchase-workflow/pull/3097),
   [#3129](https://github.com/OCA/purchase-workflow/pull/3129)); traductor de
   español en el Weblate de la OCA.

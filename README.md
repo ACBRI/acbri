@@ -1,181 +1,169 @@
-<div align="center">
+<a href="https://andresbrinez.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cabecera-oscura-en.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/cabecera-clara-en.svg">
+    <img src="assets/cabecera-clara-en.svg" width="100%" alt="Andrés Briñez. AI engineering, data and Odoo ERP. Quito, Ecuador.">
+  </picture>
+</a>
 
-# Andrés Briñez
+<p align="center">
+  <a href="https://andresbrinez.com">andresbrinez.com</a> ·
+  <a href="https://www.linkedin.com/in/acbri/">LinkedIn</a> ·
+  <a href="mailto:contacto@andresbrinez.com">contacto@andresbrinez.com</a>
+  <br>
+  <b>English</b> · <a href="README.es.md">Español</a>
+</p>
 
-![Enterprise Architecture](https://img.shields.io/badge/Enterprise_Architecture-27201B?style=flat-square)
-![AI Governance](https://img.shields.io/badge/AI_Governance-B5430F?style=flat-square)
-![Odoo](https://img.shields.io/badge/Odoo_14--20-27201B?style=flat-square)
-![RAG and Agents](https://img.shields.io/badge/RAG_and_Agents-B5430F?style=flat-square)
-![Quito](https://img.shields.io/badge/Quito,_Ecuador-6E6156?style=flat-square)
+**AI engineering, data and Odoo ERP for companies · Quito, Ecuador (UTC-5)**
 
-<br>
+I build AI that takes over a real step of your work. It reads your
+documents, listens to your meetings and calls, answers from your own data
+and acts inside the systems you already use. Behind it, clean data and Odoo
+ERP for finance: accounting, e-invoicing and tax.
 
-<a href="https://andresbrinez.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" width="36" alt="Website"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/acbri/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="36" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:acbri.19@gmail.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="36" alt="Email"/></a>&nbsp;&nbsp;
-<a href="https://github.com/ACBRI"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="36" alt="GitHub"/></a>
+The aim is a mid-sized company that runs the way large ones do. You get the
+scope in writing before I start, and results you can check.
 
-<br>
+## What I do today
 
-**English**  ·  [Español](README.es.md)
+I work for myself. **Andrés Briñez** is my own practice, run from Quito
+since September 2026, and it runs on its own product:
+[andresbrinez.com](https://andresbrinez.com) is a self-hosted Odoo 19
+Community instance that serves the public site in two languages, the client
+portal, the CRM, quotations and invoicing from a single system.
 
-</div>
+What you can hand me:
 
----
-
-**AI Enterprise Architect · Enterprise Architecture and AI Governance · Quito, Ecuador**
-
-I step into organizations that have outgrown their own systems, work out how they actually run, and design the architecture — and the AI governance — that lets them keep growing without breaking.
-
-Two things separate what I do from a slide deck. The first is that I implement what I design: the ERP goes live, the pipeline runs on a schedule, the model answers with the company's own documents. The second is that I write the decisions down, in a form someone can audit a year later.
-
----
-
-<br>
-
-## What I am doing right now
-
-**Enterprise AI capability for a consumer-goods multinational** (through PENTA Digital Lab). Solution architecture for an end-to-end commercial transformation: as-is survey, gap analysis, target model, systems integration, and GenAI and agents placed inside the business processes rather than beside them.
-
-**A consultancy that runs on the systems it sells.** [andresbrinez.com](https://andresbrinez.com) is my own Odoo 19 Community instance, self-hosted, serving the public site, the client portal, the CRM, quotations and invoicing from a single system. Continuous integration on my own runners, deployment with one command, backups verified end to end. Every product I sell was first run against my own business.
-
----
-
-<br>
+- **An AI agent for your process.** Claude with tools that read and write in
+  your ERP, database or files, inside the limits you set.
+- **Answers from your own documents (RAG).** Search with embeddings and
+  pgvector, measured with test questions, so you know how often it is right.
+- **Audio turned into work.** Transcription with Whisper, speaker
+  recognition, and minutes or summaries written by an LLM.
+- **Data that has to move or connect.** Python and PostgreSQL pipelines, API
+  integrations and n8n workflows.
+- **Odoo ERP for finance.** Accounting, e-invoicing and tax for Ecuador and
+  Colombia.
 
 ## What I have built
 
-**Enterprise architecture and ERP**
+- **Reunia, AI meeting minutes that know who spoke.** It transcribes the
+  audio with Whisper, recognizes each speaker across meetings by voice
+  embeddings in pgvector, and writes the minutes with an LLM. FastAPI on
+  Cloud Run, Terraform. Built end to end and first deployed in July 2026.
+- **A call copilot.** It transcribes the call on the device while people
+  speak and answers with Claude in a little over a second.
+- **A RAG system over more than 2,000 of my own files.** LlamaIndex and
+  pgvector. It answers 24 of 26 test questions correctly, and the two it
+  misses are documented. Sensitive files never leave the machine.
+- **Ecuador's e-invoicing localization on Odoo 19 Community.** I brought it
+  to Odoo 19: 11 modules and 580 automated tests. The tax authority (SRI)
+  authorized the invoice, credit note, purchase settlement and withholding
+  in its certification environment. My own company has invoiced with it
+  since September 2026.
+- **Two companies, two countries, one Odoo.** The accounting of a company in
+  Ecuador and one in Colombia, in production on a single instance, with
+  scripted deployment on my own continuous integration and tested backups.
 
-- Architecture of an end-to-end commercial transformation for a consumer-goods multinational: TO-BE model, gap analysis, systems integration
-- Ecuadorian electronic invoicing for Odoo 19: eight modules ported from the OCA's 18.0 line — invoices, credit and debit notes, withholding, purchase settlements, waybills, the ATS return and inbound supplier documents — with 314 automated tests and CI
-- Colombian withholding tax for Odoo 19: withholding at source, CIIU economic activities and the bridge to electronic invoicing, so each withholding declares its own tax in the XML
-- Two-country accounting in production (Ecuador and Colombia), including an expense classifier that reads the supplier's registered activity before asking a model
-- Odoo upgrade radar: walks a codebase and reports what breaks on the next version, file and line, in the order worth fixing
-
-**AI in production**
-
-- Retrieval over a company's own documents and ERP data, built the way the production literature says to build it: hybrid retrieval from day one, reranking, a measured faithfulness threshold, and an evaluation set of real questions with written answers
-- A generative-AI pipeline for meeting transcription and minutes (Whisper with speaker diarization, then cleanup)
-- Reunia — an AI-first meeting-intelligence platform, in progress
-- LLM-agent workflows that turn a meeting transcript into user stories
-
-**Modelling and documentation**
-
-- C4 with Structurizr, BPMN 2.0, ArchiMate and architecture decision records, in organizations that had none
-- Documentation as code: versioned, reviewable, and still true after the consultant leaves
-
-These are not lab projects. They are systems someone uses today to make decisions that cost real money.
-
----
-
-<br>
+These five live in private repositories. What anyone can open is below.
 
 ## In the open
 
-Most of my work lives in private repositories, for the obvious reason. What can be checked from outside:
-
-- **[andresbrinez.com](https://andresbrinez.com)** — the site is the artefact: it runs on the stack it describes, in two languages, with the prices published
-- **[Odoo Community Association](https://github.com/OCA)** — contributor licence signed; code reviews on [purchase-workflow](https://github.com/OCA/purchase-workflow/pull/3097), and Spanish translator on the OCA's Weblate
-- **[discovery-copilot](https://github.com/ACBRI/discovery-copilot)** — a meeting-to-user-stories agent, built on a fictional transcript so it can stay public
-
----
-
-<br>
-
-## How I work
-
-The first thing is never code — it is understanding. I map processes by talking to the people who run them, model them formally, and record the decisions that matter, so nobody has to guess later why something was done that way.
-
-I treat governance the same way: clear rules for how AI and data get used, not locks that slow the business down. And when a repetitive task can be automated, I automate it, so the time gets spent thinking instead of copying.
-
-I decide by satisficing, in Herbert Simon's sense: set the level a solution has to reach, then take the first alternative that reaches it. The maximizing system arrives late, and sometimes never arrives at all.
-
----
-
-<br>
-
-## Stack
-
-<div align="center">
-
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" width="40" alt="Python"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/postgresql.svg" width="40" alt="PostgreSQL"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg" width="40" alt="Docker"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/terraform.svg" width="40" alt="Terraform"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/google.svg" width="40" alt="GCP"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/amazon.svg" width="40" alt="AWS"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/grafana.svg" width="40" alt="Grafana"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/nginx.svg" width="40" alt="Nginx"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cloudflare.svg" width="40" alt="Cloudflare"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" width="40" alt="Git"/></a>&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width="40" alt="JavaScript"/></a>
-
-</div>
-
-<br>
-
-```
-AI and GenAI          Claude · OpenAI · Gemini · RAG · Agents · Whisper
-Governance and risk   NIST AI RMF · ISO/IEC 42001 · DLP · AI usage policies
-Architecture          C4 / Structurizr · BPMN 2.0 · ArchiMate · ADRs · TOGAF
-ERP and data          Odoo 14-20 · OCA modules · PostgreSQL 17 · Python
-Cloud and DevOps      GCP · AWS · Docker · Terraform · GitHub Actions · CI/CD
-Observability         Prometheus · Grafana · Loki · cAdvisor
-Business intelligence Apache Superset · Metabase · SQL views
-Docs and automation   Obsidian · LaTeX · React / TypeScript
-```
-
----
-
-<br>
+- **[andresbrinez.com](https://andresbrinez.com)**: the site runs on the
+  stack it describes, in two languages, with the prices published.
+- **[Odoo Community Association](https://github.com/OCA)**: contributor
+  agreement signed; two approving reviews on pull requests that were merged
+  in purchase-workflow
+  ([#3097](https://github.com/OCA/purchase-workflow/pull/3097),
+  [#3129](https://github.com/OCA/purchase-workflow/pull/3129)); Spanish
+  translator on the OCA's Weblate.
+- **[discovery-copilot](https://github.com/ACBRI/discovery-copilot)**: an
+  agent that reads the transcript of a requirements meeting and returns user
+  stories with acceptance criteria. It runs on a fictional transcript, so
+  the repository stays open.
+- **[survey-19](https://github.com/ACBRI/survey-19)**: the OCA module
+  `survey_question_type_binary`, a survey question answered with files,
+  migrated to Odoo 19 on a fork of OCA/survey, with its checks and tests
+  scripted in the repository.
+- **[agrosmart-digital-twin](https://github.com/ACBRI/agrosmart-digital-twin)**:
+  a university project. The runnable digital twin of a low-cost irrigation
+  system: simulated field nodes over MQTT, TimescaleDB and Grafana, started
+  with one `docker compose up`.
 
 ## Experience
 
-**PENTA Digital Lab · AI and ERP Solutions Architect** — *May 2026 – present · Ecuador*
-Enterprise architecture, GenAI and agent integration, and AI-first adoption for a consumer-goods multinational.
+**AI Engineer · Solutions Architect and Odoo Consultant (independent)**<br>
+Andrés Briñez · andresbrinez.com · Quito, Ecuador · *Sep 2026 – present*<br>
+AI products and business systems for companies, with the scope in writing
+before work starts.
 
-**Independent practice · Enterprise architecture, Odoo and applied AI** — *2020 – present · Ecuador and Colombia*
-Process mapping, architecture maps, Odoo implementations with Ecuadorian and Colombian localisation, and AI inside real processes. Fixed scope and published prices.
+**Odoo Consultant · Enterprise Architecture**<br>
+PENTA Digital Lab · Cuenca, Ecuador · *May 2026 – Aug 2026*<br>
+Odoo 18-to-19 migration of custom modules with AI agents, each module
+verified against a running instance. Discovery workshops, functional
+specifications in versioned LaTeX, and processes modeled in C4, BPMN 2.0 and
+ArchiMate.
 
-**Oil and Gas Engineering · Solutions Architect and Process Analyst** — *2025 – 2026*
-Enterprise architecture, ERP, BI and digital transformation for distributed engineering operations across Latin America.
+**Lead Odoo and Cloud Architect**<br>
+TECNACORP · Quito, Ecuador · *Sep 2025 – May 2026*<br>
+Odoo 18 in operation on Google Cloud with Cloud Run, Cloud SQL and
+Terraform. Continuous integration with GitHub Actions and Docker,
+observability and automated backups. KoboCollect, the forms field crews fill
+in without signal, connected to Odoo with n8n.
 
-**NUTRABIOTICS S.A.S · Full Stack Developer** — *2022 – 2023*
-Odoo development, information security and AWS infrastructure.
+**ERP Solutions Architect (Odoo) · Presales**<br>
+SOINTEM · Quito, Ecuador · *Apr 2025 – Sep 2025*<br>
+Odoo designed and implemented end to end, through go-live, in
+manufacturing, retail distribution, floriculture and e-commerce.
 
-**Earlier** — education, engineering, financial technology. Where I learned that if you cannot explain something clearly, you probably do not understand it well enough yet.
+**Cybersecurity and Full Stack Development**<br>
+Nutrabiotics · Bogotá, Colombia · *Jul 2022 – Dec 2023*<br>
+Joined as Junior Full Stack Developer and moved to the cybersecurity role in
+February 2023. Critical systems migrated to AWS, with role-based IAM
+policies and monitoring.
 
----
+**Founder · Full Stack Developer**<br>
+Shield Cloud · Remote · *Dec 2020 – Jun 2022*<br>
+My own company for web and cloud projects: web applications in React and
+Node.js on AWS, with the infrastructure declared in Terraform.
 
-<br>
+## Stack
 
-## Education
+```
+AI         Claude · AI agents · RAG · LlamaIndex · Whisper · pgvector
+Data       Python · PostgreSQL · FastAPI · n8n · API integrations
+Odoo ERP   Odoo 18 and 19 · OCA · accounting · e-invoicing · tax
+Platform   Google Cloud · Terraform · Docker · GitHub Actions
+```
 
-Systems Engineering — UNAD Colombia *(in progress)*
-47+ certifications in cloud, security, data and architecture
-Currently working through TOGAF and the AI-governance frameworks (NIST AI RMF, ISO/IEC 42001)
+## Education and recognition
 
----
+- **Systems Engineering** (undergraduate degree, in progress), Universidad
+  Nacional Abierta y a Distancia (UNAD), Colombia. Seventh semester as of
+  October 2026.
+- **MediaHack 2025, winning project.** Veritas AI, an AI news verifier for
+  the 2025 elections, built with my team. UNESCO Ecuador and Fundación
+  OpenLab, March 2025.
+- **Course certificates.** Claude Code 101 and Claude 101, Anthropic, April
+  2026.
 
-<br>
+## Working with me
 
-## Where I am heading
+Scope, price and delivery date in writing before anything starts. Small
+deliveries you can test. If AI is not the right tool for your problem, I say
+so.
 
-I want to lead AI architecture and governance in international organizations, remotely. Not for the title: for the chance to build AI capabilities that last and that someone actually uses.
+If you are hiring: I am open to AI engineer, solutions architect and Odoo
+consultant roles, in Ecuador or remote. Colombian, resident in Quito with an
+Ecuadorian ID card. Native Spanish and intermediate English: I work best in
+writing.
 
----
+Write to [contacto@andresbrinez.com](mailto:contacto@andresbrinez.com).
 
-<div align="center">
-
-<br>
-
-[![Contribution graph](https://ghchart.rshah.org/B5430F/ACBRI)](https://github.com/ACBRI)
-
-<br>
-
-Quito, Ecuador
-
-<a href="https://andresbrinez.com">andresbrinez.com</a> · <a href="https://www.linkedin.com/in/acbri/">LinkedIn</a>
-
-</div>
+<a href="https://andresbrinez.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/pie-oscuro.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/pie-claro.svg">
+    <img src="assets/pie-claro.svg" width="100%" alt="andresbrinez.com">
+  </picture>
+</a>

@@ -122,12 +122,6 @@ SOINTEM · Quito, Ecuador · *abr 2025 – sep 2025*<br>
 Odoo diseñado e implantado de punta a punta, hasta la salida en vivo, en
 manufactura, distribución minorista, floricultura y comercio electrónico.
 
-**Especialista en soluciones de nube**<br>
-Universal Waterproofing · Adelaida, Australia · *ene 2024 – nov 2024*<br>
-Llevé la parte de nube de la empresa junto con el trabajo de obra en
-impermeabilización: automatizaciones y módulos a medida en Odoo, y la
-plataforma migrada a AWS con Docker y Terraform.
-
 **Ciberseguridad y desarrollo full stack**<br>
 Nutrabiotics · Bogotá, Colombia · *jul 2022 – dic 2023*<br>
 Entré como desarrollador full stack júnior y pasé al cargo de

@@ -116,12 +116,6 @@ SOINTEM · Quito, Ecuador · *Apr 2025 – Sep 2025*<br>
 Odoo designed and implemented end to end, through go-live, in
 manufacturing, retail distribution, floriculture and e-commerce.
 
-**Cloud Solutions Specialist**<br>
-Universal Waterproofing · Adelaide, Australia · *Jan 2024 – Nov 2024*<br>
-Handled the company's cloud side alongside on-site waterproofing work:
-automations and custom modules in Odoo, and the platform migrated to AWS
-with Docker and Terraform.
-
 **Cybersecurity and Full Stack Development**<br>
 Nutrabiotics · Bogotá, Colombia · *Jul 2022 – Dec 2023*<br>
 Joined as Junior Full Stack Developer and moved to the cybersecurity role in
